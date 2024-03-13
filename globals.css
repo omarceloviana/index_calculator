@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(241, 237, 237);
+
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#outlined-basic{
+  border: radius 40px;;
+}
